@@ -1,4 +1,4 @@
-Hallo, takk for at du tar titten på koden :)
+
 
 For å starte, cd inn i Del1/frontend eller Del2/Frontend
     npm i
